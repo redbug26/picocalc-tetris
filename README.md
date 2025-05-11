@@ -75,5 +75,3 @@ cd out
 ## ✅ License
 
 This project is released under the MIT license.
-
-Would you like a sample `screenshot.png` placeholder or a `picocalc.json` file to integrate with the PicoCalc launcher menu?
