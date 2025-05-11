@@ -1,0 +1,10 @@
+{
+  "name": "pico-dev",
+  "image": "pico",
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/src,type=bind",
+    "source=${localWorkspaceFolder}/../pkklib/src,target=/src/pkklib,type=bind"
+  ],
+  "workspaceFolder": "/src",
+  "extensions": ["ms-vscode.cpptools"]
+}

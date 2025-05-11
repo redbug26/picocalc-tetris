@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.xtpl": "html",
+        "*.asm": "pasmo",
+        "*.s": "pasmo",
+        "*.twig": "html",
+        "*.embeddedhtml": "html",
+        "pwm_sound.h": "c",
+        "string.h": "c",
+        "psram_spi.h": "c",
+        "hxcmod.h": "c",
+        "ym_tetrisa.h": "c",
+        "pkklib_display.h": "c",
+        "pkklib_system.h": "c",
+        "g_main_scr.h": "c",
+        "g_credits_scr.h": "c",
+        "stdlib.h": "c",
+        "stsoundlibrary.h": "c",
+        "g_gametype_scr.h": "c"
+    }
+}
