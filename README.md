@@ -1,6 +1,6 @@
 # Tetris GB Clone for PicoCalc
 
-![Screenshot](screenshot.png)
+![Screenshot](res/gfx/main.gif)
 
 This project is a **clone of the original Game Boy Tetris**, built specifically for the **PicoCalc**, a DIY calculator based on the Raspberry Pi Pico and using the **pkklib** library (used for rendering, input, and sound) available at [https://github.com/redbug26/pkklib](https://github.com/redbug26/pkklib)
 
