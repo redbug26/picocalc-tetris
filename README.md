@@ -36,9 +36,10 @@ git clone https://github.com/redbug26/picocalc-tetris
 2.	Build the project:
 
 ```bash
-cd tetris-picocalc
+cd picocalc-tetris
 ./toolchain.sh
-cmake . & make
+cmake .
+make
 cd out
 ```
 
